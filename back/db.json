@@ -1,0 +1,41 @@
+
+
+{ 
+"comics" : [
+    {
+     "title": "Spiderman : entre los muerts",
+     "author":  "mark millar",
+     "cover":"https://m.media-amazon.com/images/I/513-GlD0oWL.jpg" ,
+     "compnay" :"marvel",
+     "id" : 2
+    },
+      {
+        "id": "3",
+        "title":  " infinity G ",
+        "company": "marvel"  ,
+        "author" :" jin satarlin",
+        "cover" :"https://i.pinimg.com/originals/0d/68/a1/0d68a1de6caacfcf562161dd58eec3aa.jpg"
+      },
+       {
+        "title": " Joker ",
+        "author": " Azarello ",
+        "cover":  "https://images-na.ssl-images-amazon.com/images/I/814szaQEMxL.jpg" ,
+        "compnay" :"dc",
+        "id" : 4
+       },
+       {
+        "title": " guardianes de la galaxia ",
+        "author": " bendis ",
+        "cover":  "https://www.cinemascomics.com/wp-content/uploads/2019/10/shang-chi-matrix.jpg.webp",
+        "compnay" :"Marvel",
+        "id" : 5
+       },
+       {
+        "title": " btaman: rerunt",
+        "author": " Jpseph Loeb ",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91D+7bVSo0L.jpg" ,
+        "compnay" :"dc",
+        "id" : 6
+       }
+    ]
+ }
